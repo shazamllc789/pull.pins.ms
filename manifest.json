@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Pull.Pins" is a delightful and challenging puzzle game that puts your problem-solving skills to the test. In this captivating adventure, your objective is straightforward yet clever: strategically remove the pins to guide all the colorful balls into their designated containers!",
+  "description": "Nobody breaks into your house and tries to steal your stuff without a lead shower - it’s time to Shoot Robbers! One of the most thrilling and hauntingly realistic titles from our action category, this game sets you up in a crow’s nest overlooking your own home. You’ve taken your position and loaded your gun. Now all that is left to do is wait for those cowardly little criminals to walk in front of a window",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Pull.Pins",
+  "name": "Shoot-Robbers",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Pull.Pins",
+  "short_name": "Shoot-Robbers",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Pull.Pins",
+      "name": "Shoot-Robbers",
       "url": "",
-      "description": "Pull.Pins" is a delightful and challenging puzzle game that puts your problem-solving skills to the test. In this captivating adventure, your objective is straightforward yet clever: strategically remove the pins to guide all the colorful balls into their designated containers!"
+      "description": "Nobody breaks into your house and tries to steal your stuff without a lead shower - it’s time to Shoot Robbers! One of the most thrilling and hauntingly realistic titles from our action category, this game sets you up in a crow’s nest overlooking your own home. You’ve taken your position and loaded your gun. Now all that is left to do is wait for those cowardly little criminals to walk in front of a window"
     }
   ]
 }
